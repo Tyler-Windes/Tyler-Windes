@@ -1,10 +1,10 @@
-#### Tyler Windes
+## Tyler Windes
 
 Technical consultant focused on AI-assisted workflows, systems analysis, data quality, automation, security-minded analysis, and technical communication.
 
 I work on practical systems for turning complex, fragmented information into organized, reviewable, and useful outputs. My background combines technical analysis, workflow design, cybersecurity-oriented training, business operations, and client-facing consulting.
 
-##### Focus Areas
+### Focus Areas
 
 - AI-assisted workflow design
 - Systems and workflow analysis
@@ -15,7 +15,7 @@ I work on practical systems for turning complex, fragmented information into org
 - Technical documentation for technical and non-technical readers
 - Practical automation and process improvement
 
-##### Current Direction
+### Current Direction
 
 I am focused on building repeatable workflows that help analyze messy or multi-source information across documents, logs, transcripts, media, transaction records, and technical source material.
 
@@ -28,9 +28,9 @@ My work emphasizes:
 - Explainable technical documentation
 - Communication between technical and non-technical stakeholders
 
-##### Selected Projects
+### Selected Projects
 
-###### AI-Assisted Workflow Analysis Demo
+#### AI-Assisted Workflow Analysis Demo
 
 Workflow analysis project using fictional intake records to document data-quality checks, validation rules, SQL-style review queries, requirements, user stories, prompt examples, and stakeholder summaries.
 
@@ -46,7 +46,7 @@ Focus areas:
 - Prompt-supported review workflows
 - Technical documentation
 
-###### Automated ELK Stack Deployment
+#### Automated ELK Stack Deployment
 
 Infrastructure automation project using Docker and Ansible to deploy an ELK Stack monitoring environment.
 
@@ -61,7 +61,7 @@ Focus areas:
 - Security operations concepts
 - Technical documentation
 
-###### Red vs. Blue Attack Analysis
+#### Red vs. Blue Attack Analysis
 
 Controlled cybersecurity lab project documenting attack simulation, defensive analysis, system behavior, log review, and findings from a vulnerable webserver environment.
 
@@ -75,7 +75,7 @@ Focus areas:
 - Security documentation
 - Technical reporting
 
-###### Cybersecurity Foundation Notes
+#### Cybersecurity Foundation Notes
 
 Foundation notes covering cybersecurity fundamentals, Linux workflows, log analysis, networking, and red/blue team concepts.
 
@@ -89,7 +89,7 @@ Focus areas:
 - Log analysis
 - Security-minded technical analysis
 
-##### Tools & Technologies
+### Tools & Technologies
 
 - Python
 - SQL
@@ -108,7 +108,7 @@ Focus areas:
 - LLM-assisted analysis
 - Technical documentation
 
-##### Professional Background
+### Professional Background
 
 Before focusing more deeply on technical systems and AI-assisted workflows, I founded and operated a regulated business where I was responsible for operations, compliance, vendor coordination, customer communication, digital tools, and process design.
 
@@ -116,7 +116,7 @@ I also have experience in consultative sales, business development, and client-f
 
 That background shapes how I approach technical work: systems should be practical, explainable, useful, and built around real operational needs.
 
-##### Contact
+### Contact
 
 - LinkedIn: https://www.linkedin.com/in/tylerwindes
 - Email: tyler@twindes.com
