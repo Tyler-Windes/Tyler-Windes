@@ -1,20 +1,21 @@
-# Tyler Windes
+#### Tyler Windes
 
-Technical consultant focused on AI-assisted workflows, systems analysis, automation, security-minded design, and technical communication.
+Technical consultant focused on AI-assisted workflows, systems analysis, data quality, automation, security-minded analysis, and technical communication.
 
 I work on practical systems for turning complex, fragmented information into organized, reviewable, and useful outputs. My background combines technical analysis, workflow design, cybersecurity-oriented training, business operations, and client-facing consulting.
 
-## Focus Areas
+##### Focus Areas
 
 - AI-assisted workflow design
-- Systems and data-flow analysis
-- Automation with Linux, PowerShell, Docker, and Ansible
-- OCR, transcription, extraction, and structured review workflows
+- Systems and workflow analysis
+- Data-quality review and validation
+- Requirements documentation
+- Structured extraction and review workflows
 - Security-minded technical analysis
-- Technical documentation for non-technical stakeholders
-- Blockchain, distributed systems, and infrastructure research
+- Technical documentation for technical and non-technical readers
+- Practical automation and process improvement
 
-## Current Direction
+##### Current Direction
 
 I am focused on building repeatable workflows that help analyze messy or multi-source information across documents, logs, transcripts, media, transaction records, and technical source material.
 
@@ -22,16 +23,34 @@ My work emphasizes:
 
 - Clear inputs and outputs
 - Repeatable processes
-- Human review and validation
+- Manual review and validation
 - Practical automation
 - Explainable technical documentation
 - Communication between technical and non-technical stakeholders
 
-## Selected Projects
+##### Selected Projects
 
-### Automated ELK Stack Deployment
+###### AI-Assisted Workflow Analysis Demo
+
+Workflow analysis project using fictional intake records to document data-quality checks, validation rules, SQL-style review queries, requirements, user stories, prompt examples, and stakeholder summaries.
+
+Repository: https://github.com/Tyler-Windes/ai-assisted-workflow-analysis-demo
+
+Focus areas:
+
+- Systems analysis
+- Workflow analysis
+- Data quality and validation
+- Requirements documentation
+- SQL-style review queries
+- Prompt-supported review workflows
+- Technical documentation
+
+###### Automated ELK Stack Deployment
 
 Infrastructure automation project using Docker and Ansible to deploy an ELK Stack monitoring environment.
+
+Repository: https://github.com/Tyler-Windes/automated-elk-stack-deployment
 
 Focus areas:
 
@@ -40,10 +59,13 @@ Focus areas:
 - Docker-based deployment
 - Ansible playbooks
 - Security operations concepts
+- Technical documentation
 
-### Red vs. Blue Attack and Analysis
+###### Red vs. Blue Attack Analysis
 
-Cybersecurity lab project documenting attack simulation, defensive analysis, system behavior, and findings from a vulnerable webserver environment.
+Controlled cybersecurity lab project documenting attack simulation, defensive analysis, system behavior, log review, and findings from a vulnerable webserver environment.
+
+Repository: https://github.com/Tyler-Windes/red-vs-blue-attack-analysis
 
 Focus areas:
 
@@ -53,33 +75,40 @@ Focus areas:
 - Security documentation
 - Technical reporting
 
-### Offensive and Defensive Presentation
+###### Cybersecurity Foundation Notes
 
-Presentation-based security project covering offensive activity, defensive observations, and technical findings from a controlled lab environment.
+Foundation notes covering cybersecurity fundamentals, Linux workflows, log analysis, networking, and red/blue team concepts.
+
+Repository: https://github.com/Tyler-Windes/cybersecurity-foundation-notes
 
 Focus areas:
 
-- Technical communication
-- Security analysis
-- Findings documentation
-- Stakeholder-facing presentation
+- Cybersecurity fundamentals
+- Linux-based technical workflows
+- Network and system security concepts
+- Log analysis
+- Security-minded technical analysis
 
-## Tools & Technologies
+##### Tools & Technologies
 
-Linux  
-PowerShell  
-Docker  
-Ansible  
-ELK Stack  
-Splunk  
-GitHub  
-OCR workflows  
-Transcription workflows  
-LLM-assisted analysis  
-Technical documentation  
-Workflow design  
+- Python
+- SQL
+- JSON
+- PowerShell
+- Linux
+- Docker
+- Ansible
+- ELK Stack
+- Splunk
+- GitHub
+- Workflow design
+- Data-quality review
+- OCR workflows
+- Transcription workflows
+- LLM-assisted analysis
+- Technical documentation
 
-## Professional Background
+##### Professional Background
 
 Before focusing more deeply on technical systems and AI-assisted workflows, I founded and operated a regulated business where I was responsible for operations, compliance, vendor coordination, customer communication, digital tools, and process design.
 
@@ -87,7 +116,7 @@ I also have experience in consultative sales, business development, and client-f
 
 That background shapes how I approach technical work: systems should be practical, explainable, useful, and built around real operational needs.
 
-## Contact
+##### Contact
 
 - LinkedIn: https://www.linkedin.com/in/tylerwindes
 - Email: tyler@twindes.com
