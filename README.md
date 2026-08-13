@@ -27,3 +27,5 @@ I value clear reasoning, honest limitations, and evidence that can be checked. I
 ## Background
 
 My background combines regulated business operations, client-facing problem solving, process design, documentation, and technical systems training. That perspective keeps my technical work focused on practical decisions and usable handoffs.
+
+Technical training includes the University of Denver Cybersecurity Boot Camp, a 240-hour completed program in 2022.
