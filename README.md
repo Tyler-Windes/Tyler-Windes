@@ -4,7 +4,7 @@
 
 I turn ambiguous operational problems into clear requirements, practical workflows, implementation-ready documentation, and results people can trace and review. My work connects systems analysis, data-quality rules, SQL, testing, and straightforward communication.
 
-**Portfolio:** [tyler-windes.github.io](https://tyler-windes.github.io/)
+**Portfolio:** [tyler-windes.com](https://tyler-windes.com/)
 
 ## Featured work
 
