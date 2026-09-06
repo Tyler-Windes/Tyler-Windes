@@ -8,17 +8,27 @@ I turn ambiguous operational problems into clear requirements, practical workflo
 
 ## Featured work
 
-### [Workflow Intake Analysis Demo](https://github.com/Tyler-Windes/workflow-intake-analysis-demo)
+These three independent work samples use synthetic data and fictional scenarios, not customer deployments.
 
-A Python and SQL project for turning inconsistent synthetic intake into validated, traceable results. I designed it around a simple principle: uncertainty should remain visible rather than being converted into an unsupported fact.
+### Workflow Intake Analysis Demo
 
-- translated requirements and acceptance criteria into executable rules;
-- separated valid and review-required records;
-- preserved raw-to-normalized traceability;
-- reconciled SQLite, SQL exports, and generated reports; and
-- used JSON Schema, OpenAPI, Postman, automated tests, and CI.
+A Python and SQL workflow that separates usable records from records needing review without inventing missing information. The 30-record sample produces 21 valid records and 9 review-required records, with field-level traceability across validation, SQLite, SQL exports, API contracts, and reports.
 
-[View the v1.0.0 release](https://github.com/Tyler-Windes/workflow-intake-analysis-demo/releases/tag/v1.0.0)
+[Case study](https://tyler-windes.com/projects/workflow-intake-analysis.html) | [Repository](https://github.com/Tyler-Windes/workflow-intake-analysis-demo) | [v1.0.0 release](https://github.com/Tyler-Windes/workflow-intake-analysis-demo/releases/tag/v1.0.0)
+
+### Implementation Readiness and Support Transition / IRW
+
+One project family with two distinct layers: a platform-neutral foundation with eight validation cases, and the Jira and Confluence Implementation Readiness Workspace with ten requirements and ten UAT cases.
+
+IRW connects requirements, ownership, dependencies, testing, defect correction, readiness, rollback planning, and support handoff. Its final record contains ten passing UAT results and two completed correction-and-retest paths, including one controlled negative test. Jira reporting and a Forge component remain planned v1.1 work.
+
+[IRW case study](https://tyler-windes.com/irw/) | [Foundation repository](https://github.com/Tyler-Windes/implementation-readiness-support-transition)
+
+### SaaS Integration Reliability and Support Troubleshooting
+
+A local Python, FastAPI, HTTPX, and SQLite reference implementation for investigating an account-to-support entitlement integration. Twelve recorded scenarios cover mapping, duplicate and stale updates, bounded retries, rejection, dead-letter handling, replay, and reconciliation, supported by a troubleshooting runbook. The n8n workflow is an unexecuted design draft, not the tested runtime.
+
+[Case study](https://tyler-windes.com/projects/saas-integration-reliability-support-troubleshooting.html) | [Repository](https://github.com/Tyler-Windes/saas-integration-reliability-support-troubleshooting)
 
 ## How I work
 
