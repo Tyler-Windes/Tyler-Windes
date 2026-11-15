@@ -1,12 +1,21 @@
 # Tyler Windes
 
-**Technical Consultant | Systems Analyst | Business Systems Analyst**
+**Technical Consultant | Business Systems, Automation & Data**
 
-I turn ambiguous operational problems into clear requirements, practical workflows, implementation-ready documentation, and results people can trace and review. My work connects systems analysis, data-quality rules, SQL, testing, and straightforward communication.
+I turn business needs into working tools and practical workflows. I develop and maintain Python and PowerShell systems, configure APIs, troubleshoot failures and validate results. My consulting connects technical judgment with customer needs, operating constraints and useful delivery.
 
 **Portfolio:** [tyler-windes.com](https://tyler-windes.com/)
 
-## Featured work
+## Consulting and delivered work
+
+- **Document categorization and search:** designed and implemented a workflow with a rich searchable index, connecting organization rules with how users find and use information. The tool remains in use.
+- **Photography application:** designed and implemented OCR, content and quality ranking, tagging and manual overrides. Separate index/workbook reconciliation supports controlled, reversible updates. The application remains in use.
+- **AI backend guidance:** advised a mobile-app developer on backend design, model selection, memory use and API configuration, contributing to an app the developer completed and released.
+- **Coordinated AI workflows:** design and operate analysis, document-processing and technical-delivery workflows with clear responsibilities, traceable handoffs and human review.
+
+I also built and operated Amkha Seed, managing customer and vendor workflows, inventory, fulfillment and all business finances. That operating responsibility shapes how I define requirements, resolve exceptions and carry technical work through delivery.
+
+## Public case studies
 
 These three independent work samples use synthetic data and fictional scenarios, not customer deployments.
 
@@ -36,6 +45,6 @@ I value clear reasoning, honest limitations, and evidence that can be checked. I
 
 ## Background
 
-My background combines regulated business operations, client-facing problem solving, process design, documentation, and technical systems training. That perspective keeps my technical work focused on practical decisions and usable handoffs.
+My background combines technical and analytical consulting, business ownership, customer-facing problem solving and hands-on systems work. I connect that experience with clear requirements, tested changes and practical handoffs.
 
 Technical training includes the University of Denver Cybersecurity Boot Camp, a 240-hour completed program in 2022.
